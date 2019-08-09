@@ -34,6 +34,6 @@ $("input[type='text']").keypress(function(event){
 });
 
 $('.fa-pencil-square-o').on("click",function(event){
-	alert("hello");
+	//alert("hello");
 	$('#hideInput').toggleClass("inputHide");
 })
