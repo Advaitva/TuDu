@@ -90,7 +90,7 @@ li:hover span{
 .fa-trash{
 	color: white;
 }
-#inputHide{
-	opacity:0;
-	height:0;
+.inputHide{
+	opacity: 0;
+	height: 0;
 }
