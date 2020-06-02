@@ -11,7 +11,9 @@ ul{
 	margin: 0;
 	padding: 0;
 }
-
+ul:hover{
+	cursor:pointer;
+}
 li{
 	background: #fff;
 	height: 40px;
